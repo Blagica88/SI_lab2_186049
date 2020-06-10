@@ -4,6 +4,7 @@
 Ја добив групата на код 5
 
 ### Control Flow Graph
+![tocen_graf](https://user-images.githubusercontent.com/62502968/84269326-5cf83280-ab29-11ea-9c30-7fe404d58296.png)
 
 
 ### Цикломатска комплексност
